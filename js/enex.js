@@ -224,7 +224,7 @@ $(function() {
 	
     // 10. countdown
     // 10.1. countdown SETUP
-    var end = new Date("05/05/2025 06:00 PM"); // FORMAT: month/day/year time
+    var end = new Date("01/01/2025 06:00 PM"); // FORMAT: month/day/year time
     // 10.2. countdown script
 	var _second = 1000;
     var _minute = _second * 60;
